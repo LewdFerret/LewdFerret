@@ -8,7 +8,7 @@
   - more coming soon ...
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I'm a furry!
-- Please don't hate me for my code 😆
+- Please don't hate me for my code 😆<br>
 🏳️‍🌈🇩🇪
 
 <!---
